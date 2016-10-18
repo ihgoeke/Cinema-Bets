@@ -19,6 +19,7 @@
   display: inline;
   position: fixed;
   left: auto;
+  font-family: Eurostile;
 }
 #tyws {
   display: inline;
@@ -66,6 +67,7 @@ table{
   font-family: Eurostile;
   font-size: 3em;
   margin-top:105px;
+  align: center;
 }
 
 .upc {
@@ -154,7 +156,5 @@ li span{
   border-radius: 25px;
   background-color: aquamarine;
   padding-left: 5%;
-  padding-top: 1%;
   font-family: Eurostile;
-  height: 1.9em;
 }
